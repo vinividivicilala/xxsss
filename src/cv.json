@@ -1,0 +1,135 @@
+{
+  "education": [
+    {
+      "institution": "Universitas Gunadarma",
+      "url": "https://www.instagram.com/fardardinsyh/#!",
+      "area": {
+        "n1": "Arduino",
+        "n2": "Fritzing"
+      },
+      "startDate": "2019",
+      "endDate": "2023"
+    },
+    {
+      "institution": "SMK NEGERI 1 CIBINONG",
+      "url": "https://www.instagram.com/fardardinsyh/",
+      "area": "Kelistrikan",
+      "startDate": "2016",
+      "endDate": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Beginner",
+      "keywords": ["Databases", "SQL", "Data Management", "Backend"]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Beginner",
+      "keywords": ["Databases", "SQL", "Data Management", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Beginner",
+      "keywords": ["Versions control", "Colaborate", "Source code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Beginner",
+      "keywords": ["Versions control", "Colaborate", "Source code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+     {
+      "name": "C#",
+      "level": "Beginner",
+      "keywords": [
+        "Video Game Development",
+        "IA"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Skripsi",
+	  "beta": true,
+      "description": "PROTOTIPE SISTEM ALARM PENDETEKSI ASAP DAN KEBAKARAN DINI MENGGUNAKAN KIPAS DAN POMPA AIR BERBASIS ARDUINO UNO.",
+      "madeWith": ["C++", "Arduino", "Fritzing"],
+      "url": "https://www.instagram.com/fardardinsyh/"
+    },
+    {
+      "name": "Penelitian Ilmiah",
+	  "beta": true,
+      "description": "PROTOTIPE SISTEM PENYIRAMAN TANAMAN OTOMATIS BERBASIS ARDUINO UNO MENGGUNAKAN TANAMAN KURA.",
+      "madeWith": ["C++", "Arduino", "Fritzing"],
+      "url": "https://www.instagram.com/fardardinsyh/"
+    },
+    {
+      "name": "Proyek Sistem Komputer",
+	  "beta": true,
+      "description": "prototipe sistem monitoring kelembaban tanah penyiraman tanaman otomatis pada tanaman kedongdong berbasis arduino.",
+      "madeWith": ["C++", "Arduino", "Fritzing"],
+      "url": "https://www.instagram.com/fardardinsyh/"
+    }
+  ]
+}
